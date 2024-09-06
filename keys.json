@@ -1,9 +1,19 @@
 {
-    "keys": [
-        "GHOST-BYPASS-1-DAY",
-        "DEF456",
-        "GHI789",
-        "SELAM123",
-        "SELAM124"
-    ]
+  "keys": [
+    {
+      "id": 1,
+      "key": "ABC123-DEF456-GHI789",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "key": "JKL012-MNO345-PQR678",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "key": "STU901-VWX234-YZA567",
+      "status": "active"
+    }
+  ]
 }
